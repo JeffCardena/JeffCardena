@@ -1,5 +1,5 @@
 - 👋 Hola, soy JeffCardena.
-- 👀 Me interesa la programación, el desarrollo Web, y el desarrollo de aplicaciones multiplataforma.
+- 👀 Me interesa la programación, el desarrollo Web.
 - 🌱 Actualmente estoy eprendiendo desarrollo Web Front-End y Back-End, también el desarrollo en Xamarin Forms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
