@@ -1,6 +1,6 @@
 - 👋 Hola, soy JeffCardena.
-- 👀 Me interesa la programación y el desarrollo Web.
-- 🌱 Actualmente estoy eprendiendo desarrollo Web Front-End y Back-End, también el desarrollo en Xamarin Forms.
+- 👀 Me interesa la programación y el ddesarrollo Web Front-End y Back-End.
+- 🌱 Actualmente estoy eprendiendo a fondo programación en C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
